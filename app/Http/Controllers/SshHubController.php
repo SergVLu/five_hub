@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class SshHubController extends Controller
 {
-    public function sshFromGitHubLaravel1()
+    public function sshFromGitHubLaravel()
     {
         return '';
     }
